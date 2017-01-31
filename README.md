@@ -16,10 +16,11 @@
 
 [Sparkfun Pro Micro](https://www.sparkfun.com/products/12640).
 
-Chip: ATmega32U4. 32 KB programmable flash memory (for storing program, nonvolatile). 2.5 KB internal SRAM (run time memory, volatile). 1 KB EEPROM (nonvolatile storage).
+- Chip: ATmega32U4
+- Specs: 32 KB programmable flash memory (for storing program, nonvolatile). 2.5 KB internal SRAM (run time memory, volatile). 1 KB EEPROM (nonvolatile storage).
 
 ### Emot Actuators
 
 - Arms: left and right. Operations: set arms in 1 of 3 available positions (up, stable, low)
-- LED: 1 and 2. Operations: set on/off and color.
+- LED: 1 and 2. Operations: set on/off and RGB color.
 - pressure sensor: left and right.
